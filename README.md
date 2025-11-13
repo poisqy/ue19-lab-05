@@ -16,12 +16,12 @@ cd open-meteo-forecast-viewer
 
 2. Installer les librairies:
 ```bash
-pip install -r requirements.txt python weather.py
+pip install -r requirements.txt
 ```
 
 3. Lancer le programme:
 ```bash
-python weather.py
+python app.py
 ```
 
 ## Installation via docker
